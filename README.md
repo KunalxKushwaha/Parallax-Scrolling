@@ -1,2 +1,2 @@
 # Parallax Scrolling Effect Page📃
-Here is a Ss
+Here is a Sample page to showcase 
